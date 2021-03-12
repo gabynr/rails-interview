@@ -47,3 +47,4 @@ end
 
 gem 'markdown-rails'
 gem 'ffaker'
+gem 'sqlite3'
